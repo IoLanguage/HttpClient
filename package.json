@@ -1,0 +1,15 @@
+{
+  "name":         "HttpClient",
+  "version":      "0.1",
+  "description":  "An attempt to clean up URL / HTTP requests",
+  "author":       "Rich Collins",
+  "website":      "http://iolanguage.org/",
+  "readme":       "README.md",
+  "protos":       ["HttpClient"],
+  "dependencies": {
+    "libs":     [],
+    "headers":  [],
+    "protos":   [],
+    "packages": ["https://github.com/IoLanguage/Socket.git"]
+  }
+}
